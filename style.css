@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.A1{
+    width: 300px;
+    height: 450px;
+    border: 2px solid black;
+    margin: 25px auto;
+    border-radius: 15px;
+    background-color: rgb(187, 167, 50);
+}
+h2{
+    color: rgb(109, 50, 80);
+}
+.id-title{
+    border: 1px solid;
+    width: fit-content;
+    margin: auto;
+    border-radius: 20px;
+    padding: 0 10px;
+    margin-top: 8px;
+}
+.id-photo{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    border-radius: 50%;
+    display: block;
+    padding: 0 15px;
+}
+.A2{
+    text-align: center;
+}
+hr{
+    width: 50%;
+    margin: auto;
+    margin-top: 5px;
+    border-width: 2px;
+}
+th{
+    text-align: left;
+    padding: 1px;
+}
+.data{
+    text-align: center;
+}
+table{
+    margin: auto;
+    margin-top: 15px;
+    width: 80%;
+    padding: 10px;
+}
+
